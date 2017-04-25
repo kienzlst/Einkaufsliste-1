@@ -1,6 +1,8 @@
 # Lebenslauf
 ## Praktikum OSSE Testprojekt
 
+(/foto.png)
+
 ### Persönliche Daten
 * Name: Daniel Schlageter
 * DOB: 29.02.1995
