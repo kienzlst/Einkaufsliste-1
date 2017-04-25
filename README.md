@@ -1,7 +1,7 @@
 # Lebenslauf
 ## Praktikum OSSE Testprojekt
 
-![Profilbild] (foto.png)
+![Profilbild] (https://raw.githubusercontent.com/schlagda/Einkaufsliste/foto-branch/foto.png)
 
 ### Persönliche Daten
 * Name: Daniel Schlageter
