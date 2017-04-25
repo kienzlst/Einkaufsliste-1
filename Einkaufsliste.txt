@@ -1,7 +1,0 @@
-# Einkaufsliste
-
-* Äpfel
-* Birnen
-* Bananen
-* Erdbeeren
---
