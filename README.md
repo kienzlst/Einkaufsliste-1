@@ -1,7 +1,7 @@
 # Lebenslauf
 ## Praktikum OSSE Testprojekt
 
-(./foto.png)
+![Profilbild] (foto.png)
 
 ### Persönliche Daten
 * Name: Daniel Schlageter
